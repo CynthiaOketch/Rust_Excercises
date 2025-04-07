@@ -1,0 +1,1 @@
+/home/coketch/Rust_Excercises/matrix_multiplication/target/debug/matrix_multiplication: /home/coketch/Rust_Excercises/matrix_multiplication/src/lib.rs /home/coketch/Rust_Excercises/matrix_multiplication/src/main.rs
